@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <h1>EdgeDB</h1>
+  <h1>Utility Box</h1>
   <a href="https://github.com/edgedb/edgedb" rel="nofollow">
     <img src="https://img.shields.io/github/stars/edgedb/edgedb" alt="Stars">
   </a>
@@ -42,7 +42,7 @@
 
 <br/>
 <div align="center">
-  <h2>What is EdgeDB?</h2>
+  <h2>What is UtilityBox?</h2>
   <p style="max-width: 450px;">
     EdgeDB is a new kind of database
     <br/>
